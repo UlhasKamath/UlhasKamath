@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UlhasKamath
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Advanced Excel, Advanced SQL, EDA
+- 🌱 I’m currently learning Advanced SQL and Python
 - My LinkedIn profile - https://www.linkedin.com/in/ulhas-kamath
 - My Gmail ID - Gmail - ulhaskamath9632@gmail.com
 
