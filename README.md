@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @UlhasKamath
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Advanced SQL and Python
+- 👀 I’m interested in Data Engineering
+- 🌱 I’m currently learning Advanced Kafka and Airflow
 - My LinkedIn profile - https://www.linkedin.com/in/ulhas-kamath
-- My Gmail ID - Gmail - ulhaskamath9632@gmail.com
+- My Gmail ID - Gmail - ulhaskamathk@gmail.com
 
 <!---
 UlhasKamath/UlhasKamath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
