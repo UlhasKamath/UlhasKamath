@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UlhasKamath
-- 👀 I’m interested in Data Engineering
+- 👀 I’m interested in Data Engineering and AI 
 - 🌱 I’m currently learning Advanced Kafka and Airflow
 - My LinkedIn profile - https://www.linkedin.com/in/ulhas-kamath
 - My Gmail ID - Gmail - ulhaskamathk@gmail.com
